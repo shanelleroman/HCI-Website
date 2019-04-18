@@ -2540,6 +2540,11 @@ html.no-csstransitions .home-content__main {
   transform: scale(0.5);
 }
 
+#smaller {
+  width: 90%;
+  height: 90%;  
+}
+
 .item-folio__text {
   z-index: 2;
   position: absolute;
