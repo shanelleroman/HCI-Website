@@ -2522,8 +2522,8 @@ html.no-csstransitions .home-content__main {
   font-size: 3rem;
   color: #000000;
   display: block;
-  height: 100px;
-  width: 100px;
+  height: 30px;
+  width: 30px;
   line-height: 30px;
   margin-left: -15px;
   margin-top: -15px;
@@ -2538,14 +2538,6 @@ html.no-csstransitions .home-content__main {
   -webkit-transform: scale(0.5);
   -ms-transform: scale(0.5);
   transform: scale(0.5);
-}
-
-#bigger {
-
-}
-
-#smaller {
-
 }
 
 .item-folio__text {
