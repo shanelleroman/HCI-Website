@@ -2528,8 +2528,8 @@ html.no-csstransitions .home-content__main {
   margin-left: -15px;
   margin-top: -15px;
   position: absolute;
-  left: 50%;
-  top: 50%;
+  left: 100%;
+  top: 100%;
   text-align: center;
   opacity: 0;
   visibility: hidden;
