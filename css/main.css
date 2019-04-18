@@ -2545,6 +2545,11 @@ html.no-csstransitions .home-content__main {
   height: 120%;
 }
 
+#smaller {
+  width: 80%;
+  height: 80%;
+}
+
 .item-folio__text {
   z-index: 2;
   position: absolute;
