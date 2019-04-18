@@ -2522,14 +2522,14 @@ html.no-csstransitions .home-content__main {
   font-size: 3rem;
   color: #000000;
   display: block;
-  height: 30px;
-  width: 30px;
+  height: 100px;
+  width: 100px;
   line-height: 30px;
   margin-left: -15px;
   margin-top: -15px;
   position: absolute;
-  left: 100%;
-  top: 100%;
+  left: 50%;
+  top: 50%;
   text-align: center;
   opacity: 0;
   visibility: hidden;
