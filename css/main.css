@@ -1348,7 +1348,10 @@ input::-moz-focus-inner {
   width: 200px;
   height: 200px;
 }
-
+img.rejoybox {
+  position: relative;
+  left: 100px;
+}
 
 /* -------------------------------------------------------------------
  * ## main navigation
