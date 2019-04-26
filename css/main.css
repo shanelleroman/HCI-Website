@@ -1776,6 +1776,7 @@ img.logo {
 }
 .home-sidelinks li {
   display: block;
+  font-weight: bold;
   padding: 0;
   text-align: left;
   background-color: rgba(0, 0, 0, 0.9);
@@ -1806,9 +1807,10 @@ img.logo {
 .home-sidelinks span {
   display: block;
   font-family: "roboto-regular", sans-serif;
+  font-weight: bold;
   font-size: 1.5rem;
   line-height: 1.6rem;
-  color: rgba(32, 168, 21,0.5);
+  color: rgb(32, 168, 21);
   text-transform: none;
   letter-spacing: 0;
 }
