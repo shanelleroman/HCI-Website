@@ -1766,13 +1766,15 @@ img.logo {
   line-height: 1.714;
   text-transform: uppercase;
   letter-spacing: 0.3rem;
-  margin: 0;
+  margin: 30px;
+  padding: 30px;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
   position: absolute;
   top: 50%;
   right: 0;
+  background-color: rgba(246,246,159, .8);
 }
 .home-sidelinks li {
   display: block;
